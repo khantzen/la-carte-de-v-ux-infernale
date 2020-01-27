@@ -43,7 +43,7 @@ vœux(ISHAM) -> BONNE ANNÉE ISHAM!
 - Serais-je en mesure de comprendre ce que fait mon code dans un mois ?
 - Qu'est ce que je pense de mon code ?
 - Qu'est ce que mon code pense de moi ?
-- Est ce que je peux rajouter de nouvelle fonctionnalité sans rien casser ?
+- Est ce que je peux rajouter une nouvelle fonctionnalité sans rien casser ?
 
 #### Itération 4
 
@@ -79,7 +79,7 @@ Tout comme précédemment
 - Serais-je en mesure de comprendre ce que fait mon code dans un mois ?
 - Qu'est ce que je pense de mon code ?
 - Qu'est ce que mon code pense de moi ?
-- Est ce que je peux rajouter de nouvelle fonctionnalité sans rien casser ?
+- Est ce que je peux rajouter une nouvelle fonctionnalité sans rien casser ?
 
 #### Itération 7
 
@@ -107,8 +107,4 @@ vœux(YOHAN Lou CHARLOTTE Henry JOHANA PHILLIPE) -> Bonne année, Henry et Lou. 
 vœux(Louis♂ Johana♀) -> Bonne année, Johana et Louis.
 vœux(YOHAN♂  Lou♀ CHARLOTTE♀ Henry♂  JOHANA♀ ALBERT♂) -> Bonne année, Lou et Henry. ET BONNE ANNÉE JOHANA ALBERT ET PHILLIPE! 
 ```
-
-
-
-
 
