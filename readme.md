@@ -50,7 +50,7 @@ vœux(ISHAM) -> BONNE ANNÉE ISHAM!
 - Parfois nous désirons souhaiter une bonne année à un couple d'amis ainsi quand deux prénoms sont passés en paramètre de la fonction celle-ci doit souhaiter une bonne année à ces deux personnes.
 
 ```
-vœux(Louis Mouna) -> Bonne année, Louis et Mouna
+vœux(Louis Mouna) -> Bonne année, Louis et Mouna.
 ```
 
 #### Itération 5
@@ -59,12 +59,12 @@ vœux(Louis Mouna) -> Bonne année, Louis et Mouna
 
 ```
 vœux(Jean Karim Nicolas) -> Bonne année, Jean, Karim et Nicolas.
-vœux(Haddock Tchang Tintin Milou) -> Bonne année, Haddock, Tchang, Tintin et Milou
+vœux(Haddock Tchang Tintin Milou) -> Bonne année, Haddock, Tchang, Tintin et Milou.
 ```
 
 #### Itération 6
 
-- Il peut également arrivé que nous aimons énormément un groupe d'amis. Dans le cas où tous les prénoms sont en majuscule nous désirons alors hurler une bonne année à tous ces gens
+- Il peut également arriver que nous aimons énormément un groupe d'amis. Dans le cas où tous les prénoms sont en majuscule nous désirons alors hurler une bonne année à tous ces gens
 
 ```
 vœux(MAX FATMA ZAID DIMITRI) -> BONNE ANNÉE MAX FATMA ZAID ET DIMITRI!
@@ -95,8 +95,8 @@ vœux(YOHAN Lou CHARLOTTE Henry JOHANA PHILLIPE) -> Bonne année, Lou et Henry. 
 - Afin d'améliorer la fluidité de lecture nous avons décidé que désormais les prénoms devaient apparaître par ordre alphabétique sur la carte de vœux.
 
 ```
-vœux(Clément Albert) -> Bonne année, Albert et Clément
-vœux(YOHAN Lou CHARLOTTE Henry JOHANA PHILLIPE) -> Bonne année Henry et Lou. ET BONNE ANNÉE JOHANA PHILLIPE ET YOHAN! 
+vœux(Clément Albert) -> Bonne année, Albert et Clément.
+vœux(YOHAN Lou CHARLOTTE Henry JOHANA PHILLIPE) -> Bonne année, Henry et Lou. ET BONNE ANNÉE JOHANA PHILLIPE ET YOHAN! 
 ```
 
 #### Itération 9
@@ -104,8 +104,8 @@ vœux(YOHAN Lou CHARLOTTE Henry JOHANA PHILLIPE) -> Bonne année Henry et Lou. E
 - L'utilisateur a désormais possibilité de renseigner le genre des personnes à qui il souhaite une bonne année, nous avons donc décider de faire apparaitre les femmes en premieres sur la carte de vœux.
 
 ```
-vœux(Louis♂ Johana♀) -> Bonne année Johana et Louis.
-vœux(YOHAN♂  Lou♀ CHARLOTTE♀ Henry♂  JOHANA♀ ALBERT♂) -> Bonne année Lou et Henry. ET BONNE ANNÉE JOHANA ALBERT ET PHILLIPE! 
+vœux(Louis♂ Johana♀) -> Bonne année, Johana et Louis.
+vœux(YOHAN♂  Lou♀ CHARLOTTE♀ Henry♂  JOHANA♀ ALBERT♂) -> Bonne année, Lou et Henry. ET BONNE ANNÉE JOHANA ALBERT ET PHILLIPE! 
 ```
 
 
