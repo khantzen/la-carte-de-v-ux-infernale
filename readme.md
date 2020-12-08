@@ -59,7 +59,7 @@ vœux(Louis Mouna) -> Bonne année, Louis et Mouna.
 
 ```
 vœux(Jean Karim Nicolas) -> Bonne année, Jean, Karim et Nicolas.
-vœux(Haddock Tchang Tintin Milou) -> Bonne année, Haddock, Tchang, Tintin, Nestor et Milou.
+vœux(Haddock Tchang Tintin Nestor Milou) -> Bonne année, Haddock, Tchang, Tintin, Nestor et Milou.
 ```
 
 #### Itération 6
